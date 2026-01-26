@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  setBGC(255, 128, 0);
+  setBGC(200, 128, 0);
 }
 
 function setBGC(r, g, b) {
