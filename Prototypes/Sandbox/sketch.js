@@ -8,10 +8,7 @@ function setup() {
 
 function draw() {
   background(220);
-  drawLever(
-    windowWidth / 2 + 200,
-    windowHeight / 2 + 200
-  );
+  drawLever(windowWidth / 2 + 200,windowHeight / 2 + 200);
 }
 
 function drawLever(x, y) {
